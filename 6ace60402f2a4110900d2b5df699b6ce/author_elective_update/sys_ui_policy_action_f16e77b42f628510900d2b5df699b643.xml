@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-28 04:47:27</sys_created_on>
+        <sys_id>f16e77b42f628510900d2b5df699b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="TestApp" source="6ace60402f2a4110900d2b5df699b6ce">6ace60402f2a4110900d2b5df699b6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApp">6ace60402f2a4110900d2b5df699b6ce</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f16e77b42f628510900d2b5df699b643</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-28 04:47:27</sys_updated_on>
+        <table>u_test_table</table>
+        <ui_policy display_value="When user is active following is required: Short description and description">940dbf342f628510900d2b5df699b6ce</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TestApp">6ace60402f2a4110900d2b5df699b6ce</application>
+        <file_path/>
+        <instance_id>2c5b854fdb57d70452e3f70fbf961983</instance_id>
+        <instance_name>dev65720</instance_name>
+        <name>sys_ui_policy_action_f16e77b42f628510900d2b5df699b643</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>short_description</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-28 04:47:27</sys_created_on><sys_id>f16e77b42f628510900d2b5df699b643</sys_id><sys_mod_count>0</sys_mod_count><sys_name>short_description</sys_name><sys_package display_value="TestApp" source="6ace60402f2a4110900d2b5df699b6ce">6ace60402f2a4110900d2b5df699b6ce</sys_package><sys_policy/><sys_scope display_value="TestApp">6ace60402f2a4110900d2b5df699b6ce</sys_scope><sys_update_name>sys_ui_policy_action_f16e77b42f628510900d2b5df699b643</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-28 04:47:27</sys_updated_on><table>u_test_table</table><ui_policy display_value="When user is active following is required: Short description and description">940dbf342f628510900d2b5df699b6ce</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-698176554</payload_hash>
+        <record_name>short_description</record_name>
+        <reverted_from/>
+        <source>8ad0f0c82f6a4110900d2b5df699b674</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-28 04:47:28</sys_created_on>
+        <sys_id>788eb3b42f628510900d2b5df699b623</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fced9b3020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-28 04:47:28</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>b08eb3b4a6628510115a1e8a9884be23</update_guid>
+        <update_guid_history>b08eb3b4a6628510115a1e8a9884be23:-698176554</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-28 04:56:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>203e493be1264961bf693dff1450b191</sys_id>
+        <sys_metadata>f16e77b42f628510900d2b5df699b643</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="TestApp" source="6ace60402f2a4110900d2b5df699b6ce">6ace60402f2a4110900d2b5df699b6ce</sys_package>
+        <sys_parent display_value="When user is active following is required: Short description and description">940dbf342f628510900d2b5df699b6ce</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="TestApp">6ace60402f2a4110900d2b5df699b6ce</sys_scope>
+        <sys_scope_delete display_value="">968efaf64d374868b03d6ef60ec38710</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_f16e77b42f628510900d2b5df699b643</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_f16e77b42f628510900d2b5df699b643">788eb3b42f628510900d2b5df699b623</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-28 04:56:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

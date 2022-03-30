@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-28 04:49:15</sys_created_on>
+        <sys_id>e3ae7bb42f628510900d2b5df699b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="TestApp" source="6ace60402f2a4110900d2b5df699b6ce">6ace60402f2a4110900d2b5df699b6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApp">6ace60402f2a4110900d2b5df699b6ce</sys_scope>
+        <sys_update_name>sys_ui_policy_action_e3ae7bb42f628510900d2b5df699b6a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-28 04:49:15</sys_updated_on>
+        <table>u_test_table</table>
+        <ui_policy display_value="When user is active following is required: Short description and description">940dbf342f628510900d2b5df699b6ce</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

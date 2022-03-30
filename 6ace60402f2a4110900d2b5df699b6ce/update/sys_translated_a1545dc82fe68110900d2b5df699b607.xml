@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element/>
+        <id/>
+        <label>新規作成</label>
+        <language>ja</language>
+        <name>u_test_table</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 08:29:57</sys_created_on>
+        <sys_id>a1545dc82fe68110900d2b5df699b607</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>u_test_table</sys_name>
+        <sys_package display_value="TestApp" source="6ace60402f2a4110900d2b5df699b6ce">6ace60402f2a4110900d2b5df699b6ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApp">6ace60402f2a4110900d2b5df699b6ce</sys_scope>
+        <sys_update_name>sys_translated_a1545dc82fe68110900d2b5df699b607</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 08:47:08</sys_updated_on>
+        <value>Create new test</value>
+    </sys_translated>
+</record_update>
